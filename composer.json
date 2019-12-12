@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-extensions-fixed/multi-language",
+    "name": "laravel-admin-extensions-caijiajia-my/multi-language",
     "description": "适用于laravel-admin的多语言支持扩展",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/laravel-admin-extensions/multi-language",
+    "homepage": "https://github.com/caijiajia-my/multi-language",
     "license": "MIT",
     "authors": [
         {
